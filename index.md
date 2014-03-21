@@ -13,5 +13,6 @@ title: BJDD 北京弟弟 - events in Beijing | 北京活动
 ## Links
 
 - [北京设计模式学习组（Beijing Design Patterns Study Group）](http://www.bjdp.org/)
+- [Beijing Startup Digest](https://www.startupdigest.com/digests/beijing)
  
 [Edit this page](https://github.com/demodays/bjdd/edit/gh-pages/index.md)
